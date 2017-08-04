@@ -1,10 +1,10 @@
-= Hyper Estraier on Docker
+# Hyper Estraier on Docker
 
 source http://fallabs.com/hyperestraier/index.html
 
 Hyper Estraier is a full-text search system.
 
-== How to use
+## How to use
 
 ```bash
 docker run -d \
