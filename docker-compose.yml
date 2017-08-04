@@ -1,0 +1,5 @@
+hyperestraier:
+  image: mhiroaki/hyperestraier
+  volumes:
+    - ./he:/he:rw
+  read_only: true
